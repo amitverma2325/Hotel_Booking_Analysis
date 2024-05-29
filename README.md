@@ -1,4 +1,4 @@
-                                                         Hotel Boking Analysis
+                                              Hotel Boking Analysis
 
 
 
